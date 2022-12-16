@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.322" height="12.322" viewBox="0 0 12.322 12.322">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0d88fb;
+      }
+    </style>
+  </defs>
+  <path id="Icon_awesome-check-circle" data-name="Icon awesome-check-circle" class="cls-1" d="M12.884,6.723A6.161,6.161,0,1,1,6.723.563,6.161,6.161,0,0,1,12.884,6.723ZM6.011,9.986l4.571-4.571a.4.4,0,0,0,0-.562L10.02,4.29a.4.4,0,0,0-.562,0L5.73,8.018l-1.74-1.74a.4.4,0,0,0-.562,0l-.562.562a.4.4,0,0,0,0,.562L5.449,9.986A.4.4,0,0,0,6.011,9.986Z" transform="translate(-0.563 -0.563)"/>
+</svg>

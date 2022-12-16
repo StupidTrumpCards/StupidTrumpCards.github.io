@@ -1,0 +1,538 @@
+<!DOCTYPE html><!--  Last Published: Fri Dec 16 2022 05:19:17 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="639bdffe1d3dd241bf9f43d4" data-wf-site="639bdffe1d3dd284e19f43c9">
+<head>
+  <meta charset="utf-8">
+  <title>CollectTrumpCards | Official Sweepstakes Rules</title>
+  <meta content="CollectTrumpCards | Official Sweepstakes Rules" property="og:title">
+  <meta content="https://uploads-ssl.webflow.com/62e7559ea26fe36dd1b03140/63516794b2834c658cc8f65c_Trump-NFT-OG-Cover2.webp" property="og:image">
+  <meta content="CollectTrumpCards | Official Sweepstakes Rules" property="twitter:title">
+  <meta content="https://uploads-ssl.webflow.com/62e7559ea26fe36dd1b03140/63516794b2834c658cc8f65c_Trump-NFT-OG-Cover2.webp" property="twitter:image">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/components.css" rel="stylesheet" type="text/css">
+  <link href="css/nft45-sold-out.css" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">WebFont.load({  google: {    families: ["Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic","Oswald:200,300,400,500,600,700","Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic","Bebas Neue:regular","Teko:regular,500"]  }});</script>
+  <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon">
+  <link href="images/webclip.png" rel="apple-touch-icon"><!--  Google Tag Manager  -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-W9FK9R9');</script>
+  <!--  End Google Tag Manager  -->
+  <!--  Google tag (gtag.js)  -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-NDEQBV1FCN"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-NDEQBV1FCN');
+  </script>
+  <!--  Google tag (gtag.js)  -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-248149145-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-248149145-2');
+  </script>
+  <style>
+/*width*/
+::-webkit-scrollbar {
+width:10px;
+}
+/*track*/
+::-webkit-scrollbar-track {
+background:rgb(51, 51, 51);
+}
+/*thumb*/
+::-webkit-scrollbar-thumb {
+background:rgb(196, 18, 32);
+}
+</style>
+  <style>
+/*width*/
+::-webkit-scrollbar {
+width:auto;
+}
+/*track*/
+::-webkit-scrollbar-track {
+background:rgb(51, 51, 51);
+border-color:rgb(51, 51, 51);
+}
+/*thumb*/
+::-webkit-scrollbar-thumb {
+background:rgb(237, 164, 7);
+}
+</style>
+</head>
+<body class="body-3">
+  <div data-collapse="medium" data-animation="default" data-duration="400" data-w-id="96ebae1a-cbfd-7bde-a120-6a4f8c85eb9f" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
+    <div data-w-id="96ebae1a-cbfd-7bde-a120-6a4f8c85eba0" class="navbg-blur"></div>
+    <div class="navigation-container">
+      <a href="index.html" class="logo-link w-inline-block"><img src="images/CTC-Dark-BKG-Logo.svg" loading="lazy" width="232" height="30" alt="" class="logo"></a>
+      <div class="navigation-wrapper">
+        <div class="menu-button w-nav-button">
+          <div class="menu-icon w-embed"><svg width="44" height="44" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M5.125 5.88892H18.875V7.41669H5.125V5.88892ZM5.125 11.2361H18.875V12.7639H5.125V11.2361ZM5.125 16.5834H18.875V18.1111H5.125V16.5834Z" fill="currentColor"></path>
+            </svg></div>
+        </div>
+        <a href="prizes" class="navigation-link w-nav-link">Prizes</a>
+        <a href="how-to" class="navigation-link w-nav-link">How To</a>
+        <a data-type="modal-open" href="official-sweepstakes-rules#" class="navigation-button w-inline-block">
+          <div class="text-block">SOLD OUT</div>
+        </a>
+        <nav role="navigation" class="navigation-menu w-nav-menu">
+          <a href="index.html" class="navigation-link-2 w-nav-link">Home</a>
+          <a href="prizes" class="navigation-link-2 w-nav-link">Prizes</a>
+          <a href="how-to" class="navigation-link-2 w-nav-link">How To</a>
+          <a id="button-mobile-nav" data-type="modal-open" href="official-sweepstakes-rules#" class="navigation-button-mobile w-inline-block">
+            <div class="text-block">SOLD OUT</div>
+          </a>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div class="section-5---rules wf-section">
+    <div class="container-rules w-container">
+      <div class="rich-text-rules w-richtext">
+        <h1>OFFICIAL DONALD TRUMP NFT COLLECTION SWEEPSTAKES</h1>
+        <h1>‍<strong> </strong></h1>
+        <h2>OFFICIAL RULES</h2>
+        <p>‍</p>
+        <h3>NO PURCHASE NECESSARY TO ENTER OR WIN. MAKING A PURCHASE OR PAYMENT OF ANY KIND WILL NOT INCREASE YOUR CHANCE OF WINNING A PRIZE. VOID WHERE PROHIBITED BY LAW.</h3>
+        <p>‍</p>
+        <h3>NOTE THESE OFFICIAL RULES CONTAIN A MANDATORY ARBITRATION PROVISION THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS, WITHOUT ANY RIGHT TO BRING CLAIMS IN A CLASS ACTION FORMAT, AND LIMITS THE REMEDIES AVAILABLE TO YOU IN THE EVENT OF CERTAIN DISPUTES.<strong>  </strong></h3>
+        <p>‍</p>
+        <p><strong>1. Eligibility.</strong></p>
+        <p>‍</p>
+        <p>The Official Donald Trump NFT Collection Sweepstakes (the “Sweepstakes”) is open only to legal residents of the 50 United States and the District of Columbia who, at the time of entry, are at least 18 years of age and the age of majority in their local jurisdiction. Void where prohibited by law. Directors, management, staff, employees of Sponsor, Administrator, or any of its/their parent(s), subsidiaries, affiliates, advertising agencies, suppliers, distributors, retailers or any other company or individual involved with the design, production, execution or distribution of the Sweepstakes, and their immediate family (spouse, ex-spouse, de facto partner, parents and stepparents, grandparents and step grandparents, siblings and step siblings, uncle, aunt, niece, nephew, brother, sister, step brother, step sister, first cousin and children and stepchildren) and household members (people who share the same residence at least three (3) months out of the year) of each such employee are not eligible. The Sweepstakes is subject to all applicable federal, state, and local laws and regulations. Participation constitutes entrant’s (“Entrant”) full and unconditional agreement to these Official Rules and Sponsor’s and Administrator’s decisions, which are final and binding in all matters related to the Sweepstakes. Winning a prize is contingent upon selected Entrant fulfilling all requirements set forth herein. Participants With Disabilities: If you have a disability and you need assistance with participating in the Sweepstakes and/or with redeeming a Prize, contact: <a href="cdn-cgi/l/email-protection#c5b6b0b5b5aab7b185a6aaa9a9a0a6b1b1b7b0a8b5a6a4b7a1b6eba6aaa8"><span class="__cf_email__" data-cfemail="24575154544b565064474b4848414750505651495447455640570a474b49">[email&#160;protected]</span></a>. <br>‍</p>
+        <p><strong>2. Sponsor/Administrator.</strong></p>
+        <p>‍</p>
+        <p>Sponsor: NFT INT LLC, 6300 Sagewood Drive, Suite 427, Park City, UT 84098.</p>
+        <p>Administrator: National Sweepstakes Company, LLC, 1143 East Union St, Newark, NY 14513.<br>‍</p>
+        <p><strong>3. Sweepstakes Entry Period.</strong></p>
+        <p>‍</p>
+        <p>While mail in requests may be submitted beginning on November 28, 2022 and through the Sweepstakes Entry Period, the Sweepstakes Entry Period starts on December 8, 2022 at 12:00:01 a.m. Eastern Time (“ET”) and ends January 18, 2023 at 11:59:59 p.m. ET (the “Sweepstakes Entry Period”). Entries received outside the Sweepstakes Entry Period, or Sweepstakes Codes entered later than 14 days after the end of the Sweepstakes Entry Period (February 2, 2023) will be void. Administrator is the official timekeeper for this Sweepstakes. <br>‍</p>
+        <p><strong>4. How to Enter the Sweepstakes.</strong></p>
+        <p>‍</p>
+        <p>There are two (2) ways to enter the Sweepstakes:</p>
+        <ol role="list">
+          <li>Purchase an NFT: Beginning on December 8, 2022 and throughout the remainder of the Sweepstakes Entry Period, to receive one (1) entry in the Sweepstakes, (i) go to the NFT website located at <a href="http://www.collecttrumpcards.com">www.collecttrumpcards.com</a> (the “NFT Site”); (ii) click “SOLD OUT”; (iii) follow the prompts and provide your email, crypto wallet address, and payment information to purchase an NFT. If you do not already have a crypto wallet, you can set up a free crypto wallet on the NFT Site by providing your email address; (iv) after you have purchased and received your NFT, Administrator will email you a unique Sweepstakes code (“Sweepstakes Code”). Click the link in the email, or go directly to the Sweepstakes microsite located at <a href="http://www.wintrumpprizes.com">www.wintrumpprizes.com</a> (“Sweepstakes Site”); (v) follow the prompts to complete the required fields, including your email address, crypto wallet address, and unique Sweepstakes Code; (vi) check the box to confirm that you accept and agree to the terms of these Official Rules and Sponsor’s Affidavit of Eligibility, Release of Liability and Publicity Release; and (vii) follow the prompts to submit your entry. You will receive one (1) unique Sweepstakes Code per NFT purchased. All Sweepstakes Codes must be entered on the Sweepstakes Site on or before 14 days following the end of the Sweepstakes Entry Period (<em>i.e</em>., February 2, 2023). You can purchase an NFT without entering the Sweepstakes by completing steps (i) to (iii) outlined above during the Sweepstakes Entry Period. There is a maximum of 45,000 NFTs available to be minted during the Sweepstakes Entry Period, including a maximum of 44,000 NFTs available for purchase during the Sweepstakes Entry Period. </li>
+        </ol>
+        <p>‍</p>
+        <div class="w-embed">
+          <div id="how-to-enter-the-sweepstakes" class="anchor"></div>
+          <style>.anchor {margin-top: -30px;padding-top: 30px;width: 0px;height:80px; }</style>
+        </div>
+        <p>‍</p>
+        <ol start="2" role="list">
+          <li><strong>No Purchase Mail-In Alternate Method of Entry:</strong> Beginning November 28, 2022 and continuing throughout the Sweepstakes Entry Period, to receive one (1) entry in the Sweepstakes without making a purchase, complete the following steps: (i) mail one (1) envelope to Official Donald Trump NFT Collection Sweepstakes, 1143 East Union St, Newark, NY 14513, with such envelope containing (1) one (1) self-addressed postage paid No. 10 envelope (except Vermont residents are not required to affix return postage), and (2) an index card with Entrant’s first name, last name, postal address e-mail address in non-black pen.  Limit one entry Sweepstakes Code request per outer envelope. The information provided in Entrant’s index card may be used to verify Entrant’s submission. The submission must be handwritten; (ii) upon receipt of such entry request, one (1) Sweepstakes Code will be returned to Entrant in the self-addressed postage paid (except Vermont residents) envelope provided to each mail-in request that complies with the stated requirements; and (iii) upon receipt of the Sweepstakes Code, Entrant must go to the Sweepstakes Site and follow the prompts to complete the required fields, including your email address, crypto wallet address, and unique Sweepstakes Code. If you do not already have a crypto wallet, you can create one for free on the NFT Site by providing your email address. Entrants must check the box to confirm that you accept and agree to the terms of these Official Rules and Sponsor’s Affidavit of Eligibility, Release of Liability and Publicity Release, and follow the prompts to submit your entry. All requests for Sweepstakes Codes must be postmarked no later than 11:59 PM EST on January 18, 2023. All requests for Sweepstakes Codes must be received no later than 7 days following the end of the Sweepstakes Entry Period in order to be considered for entry. All Sweepstakes Codes must be entered on the Sweepstakes Site on or before 14 days following the end of the Sweepstakes Entry Period (<em>i.e., </em>February 2, 2023). No service charge or fee will apply to this method of entry. Mail for this Mail-In Alternate Method of Entry sent to any other address will be disqualified and destroyed.</li>
+        </ol>
+        <p>Sponsor may reject any entry in its/their sole discretion if the entry in whole or in part: contains any illegal or offensive activity, or is obscene, defamatory, likely to incite violence or illegal; includes any material in violation of any third-party’s rights; contains material which is (or promotes activities which are) sexually explicit, obscene, pornographic, violent, self-mutilating or mutilating of animals, discriminatory (based upon race, sex, religion, natural origin, physical disability, sexual orientation or age); is threatening, profane or harassing; portrays Sponsor or any person or entity negatively; violates any third-party rights including but not limited to copyright, trademark, patent, contract, and/or publicity or privacy rights, of any other person or entity; includes directly or indirectly any trademark, logo, or intellectual property in any way unless owned exclusively by Entrant, and/or which is otherwise deemed to be inappropriate or demeaning in Sponsor’s sole discretion. Entry must not attempt to duplicate any other entry or third-party works. Notwithstanding, Sponsor reserves the right in its sole discretion to disqualify any entry that is a duplicate or substantially similar to another entry and Sponsor may, in its sole discretion, disqualify any entry that violates these parameters and/or any other part of Official Rules.</p>
+        <p>Regardless of the method of entry, you expressly agree to by bound by the Official Rules and the NFT Terms and Conditions, which are available at <a href="http://www.collectrumpcards.com">www.collectrumpcards.com</a>. </p>
+        <p>‍</p>
+        <p><strong>5. Maximum Number of Sweepstakes Entries.</strong></p>
+        <p>‍</p>
+        <p>Limit of 100 entries per person/household during the Sweepstakes Entry Period (as outlined herein) regardless of entry method.</p>
+        <p>‍</p>
+        <p><strong>6. Prizes. </strong></p>
+        <p>‍</p>
+        <p>There are 2,533 NFT Prizes in total available in the Sweepstakes (each an “NFT Prize”). Each NFT Prize is an NFT representing a specific redemption item (“Redemption Item”), as described in the chart below. In order to obtain the specific Redemption Item outlined in the chart below, NFT Prize winners will be required to “burn” their NFT Prize. Total Approximate Retail Value (“ARV”) of all Redemption Items available in the Sweepstakes: $54,695. In the event President Trump or any other element of any Redemption Item is unavailable or otherwise unable to be awarded, Redemption Item winner(s) will be awarded an alternate prize as indicated below and as determined in Sponsor’s sole discretion. In order to be eligible to win any NFT Prize or Redemption Item, Entrants must have a crypto wallet. It is free to create a crypto wallet on the NFT Site by providing your email address.</p>
+        <p>‍</p>
+      </div>
+      <div class="table-section---desktop">
+        <div class="container-2">
+          <div class="pricing-table-wrapper">
+            <div class="table">
+              <div class="table-row-top">
+                <div class="w-layout-grid table-lable-grid">
+                  <div id="w-node-ce0ac00c-a1f0-a6f3-7197-cd6871e98347-bf9f43d4">
+                    <div class="table-title"><strong class="bold-text-5">Sweepstakes Redemption Item  Description</strong>   </div>
+                  </div>
+                  <div id="w-node-ce0ac00c-a1f0-a6f3-7197-cd6871e9834a-bf9f43d4">
+                    <div class="table-title"><strong class="bold-text-6">Quantity</strong>   </div>
+                  </div>
+                  <div id="w-node-ce0ac00c-a1f0-a6f3-7197-cd6871e9834d-bf9f43d4">
+                    <div class="table-title"><strong class="bold-text-7">ARV Per Item</strong>   </div>
+                  </div>
+                  <div id="w-node-ce0ac00c-a1f0-a6f3-7197-cd6871e98350-bf9f43d4">
+                    <div class="table-title"><strong class="bold-text-8">Alternate Cash Prize</strong>   </div>
+                  </div>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">     One (1) ticket to a 2,000-person  President Trump gala dinner, at a location, date, and time to be determined  by Sponsor in its sole discretion   </p>
+                </div>
+                <div>
+                  <p class="pricing-detail">150</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$75</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">Exclusive Limited Edition Trump NFT</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">One (1) ticket to a 30 minute meet and greet with President Trump as part of a 200-person group, at a location, date, and time to be determined by Sponsor in its sole discretion</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">15</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$0/Priceless</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">Exclusive Limited Edition Trump NFT</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">     Individual 20 minute meeting  with President Trump at Mar-a-Lago at a date and time determined by Sponsor in its sole discretion    </p>
+                </div>
+                <div>
+                  <p class="pricing-detail">1</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$0/Priceless</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$550 or Exclusive Limited Edition Trump NFT, as determined by Sponsor in its sole discretion</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">     One (1) hour golf game at  Trump Golf Palm Beach with President Trump for winner and two (2) guests at a date and  time to be determined by Sponsor in its sole discretion    </p>
+                </div>
+                <div>
+                  <p class="pricing-detail">1</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$300</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$300</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">     Individual 10 minute Zoom call  with President Trump at a date and time to be determined by Sponsor in its  sole discretion   </p>
+                </div>
+                <div>
+                  <p class="pricing-detail">1</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$0</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$250 or Exclusive Limited Edition Trump NFT, as determined by Sponsor in its sole discretion</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">     One (1) ticket to a 2,000 person 20 minute Zoom call with President Trump, at a date and time to be determined by Sponsor in its sole discretion. Participants will have an opportunity to submit questions in advance of the Zoom call, but there is no guarantee that the question(s) will be asked or answered.  </p>
+                </div>
+                <div>
+                  <p class="pricing-detail">2000</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$0/Priceless</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">Exclusive Limited Edition Trump NFT</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">One (1) photo of President Trump autographed by President Trump</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">10</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$100</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$100</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">One (1) NFT with digital signature by President Trump</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">25</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$100</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$100</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">One (1) copy of the book <em>“Our Journey Together”</em> by Donald J. Trump</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">270</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$75</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$75</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">One (1) autographed copy of the book <em>“Our Journey Together”</em> by Donald J. Trump</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">30</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$499</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$499</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">Assorted President Trump merchandise and memorabilia, to be determined in Sponsor’s sole discretion</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">17</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$50</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$50</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">18 hole golf game (foursome) at Mar-a-Lago at a date and time to be determined by Sponsor in its sole discretion</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">1</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$575</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$575</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">One (1) $250 gift card to Trump Intl Hotel Vegas</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">4</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$250</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">N/A</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">One (1) $250 dining gift card at Mar-A-Lago resort</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">4</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$250</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">N/A</p>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row">
+                <div>
+                  <p class="pricing-detail">One (1) $250 dining gift card at Trump Tower NY</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">4</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">$250</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">N/A</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="table-section---dinner---desktop">
+        <div class="container-2">
+          <div class="pricing-table-wrapper">
+            <div class="table">
+              <div class="table-row-top">
+                <div class="w-layout-grid table-lable-grid---dinner">
+                  <div id="w-node-_1ffa271d-40d2-fa31-aca4-668f229bd096-bf9f43d4">
+                    <div class="table-title"><strong class="bold-text-5">Guaranteed Redemption Item  Description</strong>   </div>
+                  </div>
+                  <div id="w-node-_1ffa271d-40d2-fa31-aca4-668f229bd09b-bf9f43d4">
+                    <div class="table-title"><strong class="bold-text-6">Minimum Purchase Requirement</strong></div>
+                  </div>
+                  <div id="w-node-_1ffa271d-40d2-fa31-aca4-668f229bd0a0-bf9f43d4">
+                    <div class="table-title"><strong class="bold-text-7">Alternate Prize</strong></div>
+                  </div>
+                </div>
+              </div>
+              <div class="w-layout-grid table-row---dinner">
+                <div>
+                  <p class="pricing-detail">     One (1) ticket to a 2,000-person  President Trump gala dinner, at a location, date, and time to be determined  by Sponsor in its sole discretion   </p>
+                </div>
+                <div>
+                  <p class="pricing-detail">45 Trump NFTs</p>
+                </div>
+                <div>
+                  <p class="pricing-detail">Limited edition Trump NFT</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="table-section---mobile">
+        <div class="w-richtext">
+          <p><strong>1. </strong><br>Sweepstakes Redemption Item Description - One (1) ticket to a 2,000-person President Trump gala dinner, at a location, date, and time to be determined by Sponsor in its sole discretion<br>Quantity<strong> </strong>- 150<br>ARV Per Item - $75<br>Alternate Cash Prize - Exclusive Limited Edition Trump NFT<br>‍<br><strong>2. </strong><br>NFT Prize Redemption Item Description - One (1) ticket to a 30 minute meet and greet with President Trump as part of a 200-person group, at a location, date, and time to be determined by Sponsor in its sole discretion <br>Quantity - 15<br>ARV Per Item - $0/Priceless <br>Alternate Cash Prize - Exclusive Limited Edition Trump NFT<br>‍<br><strong>3.</strong> <br>NFT Prize Redemption Item Description - Individual 20 minute meeting with President Trump at Mar-a-Lago at a date and time determined by Sponsor in its sole discretion <br>Quantity - 1<br>ARV Per Item - $0/Priceless<br>Alternate Cash Prize - $550 or Exclusive Limited Edition Trump NFT, as determined by Sponsor in its sole discretion<br><br><strong>4.</strong> <br>NFT Prize Redemption Item Description - One (1) hour golf game at Trump Golf Palm Beach with President Trump for winner and two (2) guests at a date and time to be determined by Sponsor in its sole discretion <br>Quantity - 1<br>ARV Per Item - $300<br>Alternate Cash Prize - $300<br><br><strong>5.</strong><br>NFT Prize Redemption Item Description - Individual 10 minute Zoom call with President Trump at a date and time to be determined by Sponsor in its sole discretion<br>Quantity - 1<br>ARV Per Item - $0<br>Alternate Cash Prize - $250 or Exclusive Limited Edition Trump NFT, as determined by Sponsor in its sole discretion  <br><br><strong>6. </strong><br>NFT Prize Redemption Item Description - One (1) ticket to a 2,000 person 20 minute Zoom call with President Trump, at a date and time to be determined by Sponsor in its sole discretion. Participants will have an opportunity to submit questions in advance of the Zoom call, but there is no guarantee that the question(s) will be asked or answered.<br>Quantity - 2,000<br>ARV Per Item - $0/Priceless<br>Alternate Cash Prize - Exclusive Limited Edition Trump NFT<br><br><strong>7. </strong><br>NFT Prize Redemption Item Description - One (1) photo of President Trump autographed by President Trump<br>Quantity - 10<br>ARV Per Item - $100<br>Alternate Cash Prize - $100<br><br><strong>8.</strong> <br>NFT Prize Redemption Item Description - One (1) NFT with digital signature by President Trump<br>Quantity - 25<br>ARV Per Item - $100<br>Alternate Cash Prize - $100<br><br><strong>9.</strong><br>NFT Prize Redemption Item Description - One (1) copy of the book “Our Journey Together” by Donald J. Trump <br>Quantity - 270<br>ARV Per Item - $75<br>Alternate Cash Prize - $75<br><br><strong>10.</strong><br>NFT Prize Redemption Item Description - One (1) autographed copy of the book “Our Journey Together” by Donald J. Trump <br>Quantity - 30<br>ARV Per Item - $499<br>Alternate Cash Prize - $499<br><br><strong>11. </strong><br>NFT Prize Redemption Item Description - Assorted President Trump merchandise and memorabilia, to be determined in Sponsor’s sole discretion<br>Quantity - 17<br>ARV Per Item - $50<br>Alternate Cash Prize - $50<br><br><strong>12.</strong><br>NFT Prize Redemption Item Description - 18 hole golf game (foursome) at Mar-a-Lago at a date and time to be determined by Sponsor in its sole discretion<br>Quantity - 1<br>ARV Per Item - $575<br>Alternate Cash Prize - $575<br><br><strong>13. </strong><br>NFT Prize Redemption Item Description - One (1) $250 gift card to Trump Intl Hotel Vegas<br>Quantity - 4<br>ARV Per Item - $250<br>Alternate Cash Prize - N/A<br><br><strong>14. </strong><br>NFT Prize Redemption Item Description - One (1) $250 dining gift card at Mar-A-Lago resort<br>Quantity - 4<br>ARV Per Item - $250<br>Alternate Cash Prize - N/A<br><br><strong>15.<br>‍</strong>NFT Prize Redemption Item Description - One (1) $250 dining gift card at Trump Tower NY<br>Quantity - 4<br>ARV Per Item - $250<br>Alternate Cash Prize - N/A</p>
+        </div>
+      </div>
+      <div class="table-section---dinner---mobile">
+        <div class="w-richtext">
+          <p><strong>1. </strong><br>Guaranteed Redemption Item Description - One (1) ticket to a 2,000-person President Trump gala dinner, at a location, date, and time to be determined by Sponsor in its sole discretion<br>Minimum Purchase Requirement<strong> </strong>- 45 Trump NFTs<br>Alternate Prize - Limited edition Trump NFT<br></p>
+        </div>
+      </div>
+      <div class="rich-text-rules w-richtext">
+        <h3>THE NFT PRIZES AND REDEMPTION ITEMS ARE OFFERED AND PROVIDED &quot;AS IS&quot; WITH NO WARRANTY OR GUARANTEE BY SPONSOR OR ADMINISTRATOR OTHER THAN WHAT IS EXPRESSLY INCLUDED IN THESE OFFICIAL RULES.</h3>
+        <p>‍</p>
+        <p>All expenses and costs not expressly listed in these Official Rules are the sole responsibility of the verified NFT Prize and Redemption Item winner. Verified NFT Prize and Redemption Item winner will be responsible for all other expenses relating to the redemption, receipt and use of the NFT Prize and Redemption Item. Until awarded, NFT Prizes and Redemption Items are nontransferable. Sponsor reserves the right in its sole discretion to substitute the NFT Prize or Redemption Item, in whole or in part, for one of equal or greater value. All federal, state, and local taxes are solely the responsibility of verified NFT Prize and Redemption Item winner. </p>
+        <p>The total value of the NFT Prize and Redemption Item will not exceed the identified approximate retail value in the table above. All travel-related and other expenses not set forth herein, including but not limited to meals, ground and other transportation, parking, gratuities and incidental hotel expenses, are the sole responsibility of verified NFT Prize and Redemption Item winners. Verified NFT Prize and Redemption Item winners are each responsible for all transportation, tax, license, title fees and insurance for transportation and other related, applicable expense arising from the NFT Prize and Redemption Item. All winners, guests, or other users of redeemed NFT Prizes (<em>i.e.</em>, Redemption Items) in which an in-person event is provided, must be 18 years or older and the age of majority in their local jurisdiction, will be required to sign a release and any other Sponsor requested documents, and must be approved from a security background investigation. <br>‍</p>
+        <p><strong>7. Winner Selection.</strong></p>
+        <p>‍</p>
+        <p>Approximately 2,533 randomly generated winning times will be seeded during the Sweepstakes Entry Period and the 14 days thereafter (<em>i.e.</em>, December 8, 2022 through February 2, 2023). If you are the first player to enter the Sweepstakes Code on the Sweepstakes Site at or after one of the randomly-generated winning times, the Entrant will be notified in real time on the Sweepstakes Site that he or she is a potential winner of the NFT Prize indicated. The NFT Prize will be automatically airdropped to the potential winner’s crypto wallet using the potential winner’s crypto wallet details the Entrant used to enter the Sweepstakes or to receive the NFT Prize. Odds of winning an NFT Prize or Redemption Item depends on the date/time of entry, the number of NFT Prizes remaining at the time of entry, and number of eligible entries received for each NFT Prize during the Sweepstakes Entry Period and the 14 days thereafter.<br>‍</p>
+        <p><strong>8. Verification of Potential NFT Prize Winner.</strong></p>
+        <p>‍</p>
+        <p>POTENTIAL NFT PRIZE AND REDEMPTION ITEM WINNER’S ELIGIBILITY IS SUBJECT TO VERIFICATION BY SPONSOR, WHOSE DECISIONS ARE FINAL AND BINDING IN ALL MATTERS RELATED TO THE SWEEPSTAKES. </p>
+        <p>Any potential NFT Prize winner or redeemer must continue to comply with all terms and conditions of these Official Rules and winning is contingent upon fulfilling all requirements. Sponsor and/or Administrator or their designees may run a background and security clearance check on any potential NFT Prize winner or redeemer. The potential NFT Prize winner and redeemer may be required to execute and return to Sponsor for its receipt within two (2) business days of notification, an Affidavit of Eligibility, Release of Liability and Publicity Release (where permitted by law) (collectively, the “Affidavit”) in order to claim his/her NFT Prize or redeem the corresponding Redemption Item. Sponsor may, but is not obligated to, exercise its rights under such Affidavit. In the event: (a) potential winner cannot be reached for whatever reason after a reasonable effort has been exerted or the potential winner notification or Affidavit is returned as undeliverable; (b) potential winner declines or cannot accept, receive or use the NFT Prize or Redemption Item for any reason; (c) of noncompliance with the above or within any of the aforesaid time periods; (d) potential winner is found to be ineligible to enter the Sweepstakes or receive the NFT Prize or Redemption Item; (e) potential winner cannot or does not comply with the Official Rules; or (f) potential winner fails to fulfill the Affidavit-related obligations, the potential NFT Prize winner shall be disqualified from the Sweepstakes and an alternate potential NFT Prize and Redemption Item winner may be selected, at Sponsor’s sole discretion, from among the other eligible entries received. Sponsor and/or Administrator reserve the right to modify the notification and Affidavit procedures in connection with the selection of alternate potential NFT Prize and Redemption Item winner, if any. Potential NFT Prize and Redemption Item winner will be contacted by email and/or phone at the email address and/or phone number used to enter the Sweepstakes. <br>‍</p>
+        <p><strong>9. Entry Conditions and Release.</strong></p>
+        <p>‍</p>
+        <p>This Sweepstakes is not sponsored, endorsed, or administered by Facebook or Instagram, and Facebook and Instagram are not associated with the Sweepstakes in any way. Any questions, comments, or complaints regarding the Sweepstakes must be directed to Sponsor, and not to Instagram or Facebook. You are providing your information to Sponsor and not to Instagram or Facebook. By entering, each Entrant agrees to: (a) comply with and be bound by these Official Rules and the decisions of the Sponsor and/or Administrator and/or its/their designee(s) which are binding and final in all matters relating to these Sweepstakes; (b) release and hold harmless Sponsor, Administrator, and its/their parent(s), subsidiary and affiliated companies, the NFT Prize or Redemption Item suppliers and any other organizations and/or persons responsible for sponsoring, fulfilling, administering, advertising or promoting the Sweepstakes, and all of their respective past and present officers, directors, employees, agents and representatives (collectively, the “Released Parties”) from and against any and all claims, expenses and liability, including but not limited to negligence and damages of any kind to persons and property, including but not limited to invasion of privacy (under appropriation, intrusion, public disclosure of private facts, false light in the public eye or other legal theory), defamation, slander, libel, violation of right of publicity, infringement of trademark, copyright or other intellectual property rights, property damage, or death or personal injury arising out of or relating to an Entrant’s entry, creation of an entry or submission of an entry, participation in the Sweepstakes, acceptance or use or misuse of NFT Prize or Redemption Item (including any travel or activity related thereto) and/or the broadcast, exploitation or use of entry; and (c) indemnify, defend and hold harmless the Released Parties from and against any and all claims, expenses, and liabilities (including reasonable attorneys’ fees) arising out of or relating to an Entrant’s participation in the Sweepstakes and/or Entrant’s acceptance, use or misuse of any NFT Prize or Redemption Item.  <br> </p>
+        <p><strong>10. Publicity.</strong></p>
+        <p>‍</p>
+        <p>Except where prohibited, Entrants agree that participation in the Sweepstakes constitutes verified NFT Prize and Redemption Item winner’s consent to Sponsor’s, Administrator’s, and its/their agents’ use of each such winner’s name, likeness, photograph, voice, opinions and/or hometown and state for promotional purposes in any media (whether now known or invented in the future), worldwide, without further payment or consideration but that Sponsor and/or Administrator are not required to make such use.<br>‍</p>
+        <p><strong>11. General Conditions.</strong></p>
+        <p>‍</p>
+        <p>Sponsor and/or Administrator reserves the right to cancel, suspend and/or modify the Sweepstakes, or any part of it, if any fraud, technical failures or any other factor beyond Sponsor’s and/or Administrator’s reasonable control impairs the integrity or proper functioning of the Sweepstakes, as determined by Sponsor and/or Administrator in its/their sole discretion. Sponsor and/or Administrator reserves the right in its/their discretion to disqualify any Entrant it finds to be tampering with the entry process or the operation of the Sweepstakes or to be acting in violation of these Official Rules or any other promotion or in an unsportsmanlike or disruptive manner. Any attempt by any person to deliberately undermine the legitimate operation of the Sweepstakes may be a violation of criminal and civil law and, should such an attempt be made, Sponsor and/or Administrator reserves the right to seek damages from any such person to the fullest extent permitted by law. Sponsor and/or Administrator’s failure to enforce any term of these Official Rules shall not constitute a waiver of that provision. </p>
+        <p>In the event of a dispute regarding the identity of any Entrant, the authorized account holder of the email address used to enter the Sweepstakes will be deemed to be the Entrant. The “authorized account holder” is the natural person assigned an email address by an Internet access provider, online service provider or other organization responsible for assigning email addresses for the domain associated with the submitted address. Potential NFT Prize winner may be required to show proof of being the authorized account holder to be awarded the NFT Prize. All entry information becomes the sole and exclusive property of Sponsor and will not be returned or cancelled.</p>
+        <p>Sponsor is not owned, managed, or controlled by Donald J. Trump, The Trump Organization, CIC Digital LLC, or any of their respective principals or affiliates. Sponsor uses Donald J. Trump’s name, likeness, and image under license from CIC Digital LLC, which license may be terminated or revoked according to its terms.</p>
+        <p>Entrants acknowledge and understand that any representations, claims, guarantees, or statements made about, concerning, or related to the NFTs are not the statements of CIC Digital LLC or Donald J. Trump, and that CIC Digital LLC and Donald J. Trump take no position on the accuracy of same. </p>
+        <p>Entrants acknowledge that they have not been induced by any direct or indirect statements, omissions, actions, or inactions of CIC Digital LLC or Donald J. Trump.</p>
+        <p>Entrants hereby waive any claims they may have to date, known or unknown, against CIC Digital LLC or Donald J. Trump, or reasonably anticipate having in the future related to, or that are in any way connected to, the minting, creation, advertising, marketing, promoting, purchasing, and sale of the NFTs.</p>
+        <p>BY ENTERING THE SWEEPSTAKES VOLUNTARILY, YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT SPONSOR AND ADMINISTRATOR RESERVE THE RIGHT TO DISQUALIFY ANY ENTRANT AND/OR IMMEDIATELY TERMINATE ANY NFT PRIZE OR REDEMPTION ITEM IN THEIR SOLE DISCRETION IN THE EVENT THAT SPONSOR OR ADMINISTRATOR DETERMINE THAT YOU OR YOUR GUEST(S) HAVE ENGAGED IN CONDUCT THAT IS IN VIOLATION OF THESE RULES, OR OTHERWISE INAPPROPRIATE, OFFENSIVE, OR ABUSIVE TO SPONSOR, ADMINISTRATOR, STAFF MEMBERS, PRIZE ATTENDANTS, OR ANY OTHER PERSON.</p>
+        <p>Sponsor may enable third-party material and information to be made available on or via Sponsor and/or Administrator’s website(s) (collectively, “Third-Party Content”), including, without limitation<strong>, </strong>third-party payment processors, third-party logistics providers, and links and/or connections to websites, applications or services of such parties. You are entirely responsible for any transactions or contact with any such third party, and for your use of or interaction with any Third-Party Content. Sponsor and/or Administrator do not endorse any Third-Party Content and makes no representations or guarantees whatsoever about such Third-Party Content. You acknowledge and agree that your use of and access to any Third-Party Content is at your own risk and subject to your agreement with any such third parties’ terms of use and privacy policy agreements. </p>
+        <p>You assume all risks associated with using any Internet-based cryptocurrency, including the NFT Prize and certain Redemption Items, including, but not limited to, the risk of hardware, software and Internet connections, the risk of malicious software introduction, and the risk that third parties may obtain unauthorized access to information stored within your crypto wallet. Without limiting the foregoing, you assume all responsibility for any adverse effects of such risks, disruptions or other issues impacting cryptocurrency platforms and Internet-based cryptocurrency.<br>‍</p>
+        <p><strong>12. Limitations of Liability. </strong></p>
+        <p>‍</p>
+        <p>The Released Parties are not responsible for: (a) any incorrect or inaccurate information, whether caused by Entrant, or programming associated with or used in the Sweepstakes; (b) technical failures of any kind, including but not limited to malfunctions, interruptions, or disconnections in phone lines or network hardware or software; (c) unauthorized human intervention in any part of the entry process or the Sweepstakes; (d) technical or human error, which may occur in the administration of the Sweepstakes or the processing of entries; (e) any injury or damage to persons or property, which may be caused, directly or indirectly, in whole or in part, from Entrant’s participation in the Sweepstakes or receipt or use, misuse, or loss of any NFT Prize or Redemption Item, including unavailability or any portion of any NFT Prize or Redemption Item; or (f) entries, NFT Prizes and Redemption Items, or prize claims or notifications that are lost, late, incomplete, illegible, unintelligible, damaged or otherwise not received by the intended recipient, in whole or in part, due to computer, human or technical error of any kind, including but not limited to, by reason of unauthorized human intervention, spam filters, privacy settings, inactive email accounts or an Entrant’s failure to monitor its crypto wallet or email account. If for any reason an Entrant’s entry is confirmed to have been erroneously deleted, lost or otherwise destroyed or corrupted, Entrant’s sole remedy is another entry in the Sweepstakes. No more than the stated number of NFT Prizes and Redemption Items will be awarded. If, for any reason, the Sweepstakes cannot be executed as planned, including, but not limited to, any governmental order or mandate, force majeure, social media mandate, printing, administrative or other error of any kind, transmission failure, infection by computer virus, bugs, tampering, unauthorized intervention, fraud, technical failures, epidemic, pandemic, or any other causes beyond the control of Sponsor and/or Administrator that corrupt or affect the security, administration, fairness, integrity or proper conduct of the Sweepstakes, or if the Sweepstakes is compromised or becomes technically corrupted in any way, electronically or otherwise, Sponsor and/or Administrator reserves the right, in its sole discretion, to cancel, modify or terminate the Sweepstakes and, if terminated before the original end date, to select the winners from among all eligible, non-suspect entries received as of the date/time of termination.</p>
+        <p>BY ENTERING THE SWEEPSTAKES, ENTRANT AGREES THAT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW: (1) ANY AND ALL DISPUTES, CLAIMS AND CAUSES OF ACTION ARISING OUT OF OR CONNECTED WITH THE SWEEPSTAKES, OR ANY NFT PRIZE(S) AWARDED, WILL BE LIMITED TO ACTUAL, OUT-OF-POCKET COSTS INCURRED (IF ANY) NOT TO EXCEED ONE HUNDRED  DOLLARS ($100.00), BUT IN NO EVENT WILL ATTORNEYS’ FEES BE AWARDED OR RECOVERABLE; AND (2) UNDER NO CIRCUMSTANCES WILL ANY ENTRANT BE PERMITTED TO OBTAIN ANY AWARD FOR, AND ENTRANT HEREBY KNOWINGLY AND EXPRESSLY WAIVES ALL RIGHTS TO SEEK, PUNITIVE, INCIDENTAL, CONSEQUENTIAL OR SPECIAL DAMAGES, LOST PROFITS AND/OR ANY OTHER DAMAGES AND/OR ANY RIGHTS TO HAVE DAMAGES MULTIPLIED OR OTHERWISE INCREASED. SOME JURISDICTIONS DO NOT ALLOW THE FOREGOING LIMITATIONS OR EXCLUSION OF LIABILITY, SO THE ABOVE MAY NOT APPLY TO YOU.</p>
+        <p><strong>FOR CALIFORNIA ENTRANTS</strong>: EACH ENTRANT UNDERSTANDS AND AGREES THAT ALL RIGHTS UNDER SECTION 1542 OF THE CIVIL CODE OF CALIFORNIA AND ANY SIMILAR LAW OF ANY STATE OF THE UNITED STATES ARE HEREBY EXPRESSLY WAIVED BY HIM/HER AGAINST THE RELEASED PARTIES. SECTION 1542 READS AS FOLLOWS:</p>
+        <p>“<em>CERTAIN CLAIMS NOT AFFECTED BY A GENERAL RELEASE</em>. A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY.”<br>‍</p>
+        <p><strong>13. Dispute Resolution. </strong></p>
+        <p>‍</p>
+        <p><strong>Except where prohibited by law, as a condition of participating in this Sweepstakes, each Entrant agrees that (1) any and all disputes and causes of action arising out of or connected with this Sweepstakes, including but not limited to prize awarded, shall be resolved individually, without resort to any form of class action, and exclusively by final and binding arbitration under the rules of JAMS and held at the JAMS regional office in Delaware nearest to the Entrant; (2) the Federal Arbitration Act shall govern the interpretation, enforcement and all proceedings at such arbitration; and (3) judgment upon such arbitration award may be entered in any court of competent jurisdiction. </strong>Entrants further agree that any and all disputes, claims and causes of action arising out of or connected with this Sweepstakes, or any prize awarded shall be resolved individually, without resort to any form of class action. All issues and questions concerning the construction, validity, interpretation and enforceability of these Official Rules, or the rights and obligations of the Entrant, Sponsor, and/or Administrator in connection with the Sweepstakes, shall be governed by, and construed in accordance with, the laws of the State of Delaware, without giving effect to any choice of law or conflict of law rules (whether of the State of Delaware or any other jurisdiction), which would cause the application of the laws of any jurisdiction other than the State of Delaware. The invalidity or unenforceability of any provision of these Official Rules shall not affect the validity or enforceability of any other provision. In the event that any provision is determined to be invalid or otherwise unenforceable or illegal, these Official Rules shall otherwise remain in effect and shall be construed in accordance with their terms as if the invalid or illegal provision were not contained herein. In the event there is a discrepancy or inconsistency between disclosures or other statements contained in any Sweepstakes-related materials and the terms and conditions of these Official Rules, these Official Rules shall prevail, govern and control.<br>‍</p>
+        <p><strong>14. Entrant’s Personal Information. </strong></p>
+        <p>‍</p>
+        <p>Entrants will be contacted using the email and/or telephone provided with the entry. By participating in the Sweepstakes, Entrant authorizes the Sponsor to collect, use, process, transfer and store all data provided by entrant, including without limitation, personal data, in the United States, or any location(s) throughout the world that the Sponsor deems necessary, whether within Entrant’s country of residence or elsewhere, and with such party(ies) as the Sponsor deems appropriate, for purposes of administration of the Sweepstakes. Information collected from Entrant will be treated by Sponsor in accordance with Sponsor’s privacy policy, available at <a href="http://www.collectrumpcards.com/privacy">www.collectrumpcards.com/privacy</a>. Sponsor will only use Entrant’s personal information to: (a) provide information about the Sweepstakes; (b) contact and publicize potential winners; and/or (c) if an Entrant selects to receive additional information from the Sponsor, to send additional information to that Entrant during or after the Sweepstakes Entry Period. Entrants to the Sweepstakes may be given the option to receive commercial e-mails from the Sponsor; however, eligibility to participate in the Sweepstakes is not dependent upon Entrant’s consent to receive such e-mails. Entrants must fully complete and submit all non-optional data the Sponsor requests to be eligible. <br>‍</p>
+        <p><strong>15. Sweepstakes’ Results.</strong></p>
+        <p>‍</p>
+        <p>For the Sweepstakes results, send a hand-printed, self-addressed, stamped envelope to:  “Winner’s List” c/o Official Donald Trump NFT Collection Sweepstakes, 1143 East Union St, Newark, NY 14513. Requests for the Winner’s List must be received within 60 calendar days after the end of the Sweepstakes Entry Period.</p>
+        <p><strong>Questions?:</strong> Please email <a href="cdn-cgi/l/email-protection#53202623233c212713303c3f3f3630272721263e2330322137207d303c3e"><span class="__cf_email__" data-cfemail="51222421213e232511323e3d3d3432252523243c2132302335227f323e3c">[email&#160;protected]</span></a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="footer wf-section">
+    <div class="container left-just bar-padding w-container">
+      <div class="w-layout-grid grid-7">
+        <a id="w-node-_2569c8f5-192e-8b4f-4130-74cfff2b8ca5-f923e4a9" href="https://twitter.com/CollectTrump" target="_blank" class="link-block w-inline-block"><img src="images/icons8-twitter-2.svg" loading="lazy" alt=""></a>
+        <a id="w-node-_74d158cb-ee97-d778-4cf4-a4c6321aec0f-f923e4a9" href="https://www.instagram.com/collecttrump/" target="_blank" class="link-block w-inline-block"><img src="images/icons8-instagram-4.svg" loading="lazy" alt=""></a>
+        <a id="w-node-_7e9a36e8-f4c7-5b7d-5030-aae47e987dc1-f923e4a9" href="https://truthsocial.com/@CollectTrump" target="_blank" class="link-block-2 w-inline-block"><img src="images/Truth-Social-Emblem.png" loading="lazy" sizes="79.5546875px" srcset="images/Truth-Social-Emblem-p-500.png 500w, images/Truth-Social-Emblem.png 1200w" alt="" class="image-20 padding"></a>
+      </div>
+      <div class="footer-div">
+        <div class="w-layout-grid grid-4">
+          <div id="w-node-cdb20dae-367e-e6fe-966a-b46cf923e4ad-f923e4a9" class="div-block-5">
+            <div class="text-block-29">© 2022 NFT INT LLC. All Rights Reserved</div>
+          </div>
+          <a id="w-node-cdb20dae-367e-e6fe-966a-b46cf923e4b0-f923e4a9" href="terms" class="div-block-4 w-inline-block">
+            <div>Terms and Conditions</div>
+          </a>
+          <a id="w-node-cdb20dae-367e-e6fe-966a-b46cf923e4b3-f923e4a9" href="privacy" class="div-block-4 w-inline-block">
+            <div>Privacy Policy</div>
+          </a>
+          <a id="w-node-cdb20dae-367e-e6fe-966a-b46cf923e4b6-f923e4a9" href="nft-owner-agreement" class="div-block-4 w-inline-block">
+            <div>NFT Owner Agreement</div>
+          </a>
+          <a id="w-node-_5ba63f89-aac0-26aa-0df6-d2ce02bb087e-f923e4a9" href="support" class="div-block-4 w-inline-block">
+            <div>Contact Us / Support</div>
+          </a>
+          <a id="w-node-da84dc90-d465-de99-dee4-d4a08075cc21-f923e4a9" href="official-sweepstakes-rules" aria-current="page" class="div-block-4 w-inline-block w--current">
+            <div>Official Rules</div>
+          </a>
+          <a id="w-node-_7c38f5ba-90e5-e8f1-716b-4e314d09e55c-f923e4a9" href="refund-policy" class="div-block-4 w-inline-block">
+            <div>Refund Policy</div>
+          </a>
+          <div id="w-node-fedf032a-8ffe-e8e1-cf85-e6aea1a5a3cd-f923e4a9" class="cc-div"><img src="images/accepeted-credit-cards.svg" loading="lazy" width="285" height="40" alt="" class="image-18"></div>
+        </div>
+      </div>
+      <div class="text-block-5">No purchase necessary. A purchase will not increase your chances of winning. <a href="official-sweepstakes-rules#how-to-enter-the-sweepstakes" class="link">Click Here</a> for details on how to enter the sweepstakes without making a purchase. Void where prohibited. Open to legal residents of the 50 U.S. and D.C. 18 years or older and age of majority. Entry requests available beginning on 11/28/2022 at 12:01 a.m. ET until 1/18/2023 at 11:59 p.m. ET and must be entered between December 8, 2022 and February 2, 2023. Prize/Odds: Total ARV of all prizes $54,695. Odds of winning depend on the total number of eligible entries received. Subject to Official Rules located <a href="official-sweepstakes-rules" aria-current="page" class="link w--current">here</a>. Phone: 1-800-425-8601. Sponsor: NFT INT LLC, 6300 Sagewood Drive, Suite 427, Park City, UT 84098. Administrator: National Sweepstakes Company, LLC, 1143 East Union St, Newark, NY 14513.<br>‍<br>NFT INT LLC is not owned, managed or controlled by Donald J. Trump, The Trump Organization, CIC Digital LLC or any of their respective principals or affiliates. NFT INT LLC uses Donald J. Trump&#x27;s name, likeness and image under paid license from CIC Digital LLC, which license may be terminated or revoked according to its terms.<br></div>
+    </div>
+  </div>
+  <div class="payment-modal-wrapper">
+    <div data-w-id="9b3c57d2-358a-2276-c261-8af478dfcee6" class="modal-container">
+      <div id="w-node-_9b3c57d2-358a-2276-c261-8af478dfcee7-bf9f43d4" class="modal-content-wrap">
+        <h1 class="modal-heading">There are Two Easy ways to purchase your TRump NFT Cards</h1>
+        <p class="modal-paragraph">Choose your purchase method below:<br>(<strong>TIP:</strong> New to NFTs? Select the &quot;Credit Card&quot; option.)</p>
+        <div class="div-block-14">
+          <a id="w-node-_9b3c57d2-358a-2276-c261-8af478dfcef2-bf9f43d4" href="official-sweepstakes-rules#" class="option-div w-inline-block">
+            <div class="lottie-animation-3" data-w-id="9b3c57d2-358a-2276-c261-8af478dfcef3" data-animation-type="lottie" data-src="documents/99865-credit-card.json" data-loop="1" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg" data-default-duration="1.1666666666666667" data-duration="0"></div>
+            <div class="text-block-23">BUY WITH CREDIT CARD</div>
+          </a>
+          <div id="w-node-_9b3c57d2-358a-2276-c261-8af478dfcef6-bf9f43d4" class="option-div">
+            <div class="lottie-animation-4" data-w-id="9b3c57d2-358a-2276-c261-8af478dfcef7" data-animation-type="lottie" data-src="documents/100072-ethereum.json" data-loop="1" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg" data-default-duration="1.3666666666666667" data-duration="0"></div>
+            <div class="text-block-23">BUY WITH CRYPTO</div>
+          </div>
+        </div>
+        <a data-w-id="9b3c57d2-358a-2276-c261-8af478dfcefa" href="official-sweepstakes-rules#" class="modal-detail">Close Window</a>
+      </div>
+      <a data-w-id="9b3c57d2-358a-2276-c261-8af478dfcefc" href="official-sweepstakes-rules#" class="close-button w-inline-block"><img src="https://uploads-ssl.webflow.com/60e17d0ecf2e084eee94311b/60e196c7df8a0cedbf3fd8ec_Close%20Icon%20White.svg" loading="lazy" width="34" alt="Close" class="close-icon"></a>
+    </div>
+  </div>
+  <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=639bdffe1d3dd284e19f43c9" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="js/nft45-sold-out.js" type="text/javascript"></script>
+  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
+  <div id="root"></div>
+  <!--  Google Tag Manager (noscript)  -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W9FK9R9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!--  End Google Tag Manager (noscript)  -->.how-to-enter-the-sweepstakes {
+  height: 500px;
+  }
+</body>
+</html>
